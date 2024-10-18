@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "Menno Coppens d'Eeckenbrugge",
+  title: "Menno Coppens d&apos;Eeckenbrugge",
   description: 'A gallery of artworks by a specific painter',
 }
 
@@ -23,7 +23,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <nav className="bg-white shadow-md">
           <div className="container mx-auto px-6 py-3 flex justify-between items-center">
-            <Link href="/" className="font-bold text-xl text-gray-800">Menno Coppens d'Eeckenbrugge</Link>
+            <Link href="/" className="font-bold text-xl text-gray-800">Menno Coppens d&apos;Eeckenbrugge</Link>
             <div className="flex space-x-4">
               <Link href="/" className="text-gray-800 hover:text-gray-600">Gallery</Link>
               <Link href="/about" className="text-gray-800 hover:text-gray-600">About</Link>
@@ -35,7 +35,7 @@ export default function RootLayout({
         </main>
         <footer className="bg-gray-100 mt-8">
           <div className="container mx-auto px-6 py-3 text-center text-gray-600">
-            © 2024 Menno Coppens d'Eeckenbrugge. All rights reserved.
+            © 2024 Menno Coppens d&apos;Eeckenbrugge. All rights reserved.
           </div>
         </footer>
       </body>
