@@ -15,7 +15,7 @@ export default function ContactPage() {
             Get in touch about your favourite work of art, or make an appointment.
         </h1>
         <p className="mt-4 text-lg text-gray-500">
-          I'd love to hear from you! Feel free to reach out or follow me on social media.
+          I&apos;d love to hear from you! Feel free to reach out or follow me on social media.
         </p>
       </div>
       <div className="mt-12">
@@ -31,7 +31,7 @@ export default function ContactPage() {
                 <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">Email</h3>
                 <p className="mt-5 text-base text-gray-500">
                   <Link href="mailto:menno.coppens@telenet.be" className="text-indigo-600 hover:text-indigo-500">
-                    Let's chat!
+                    Let&apos;s chat!
                   </Link>
                 </p>
               </div>
@@ -64,8 +64,8 @@ export default function ContactPage() {
                 </div>
                 <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">Facebook</h3>
                 <p className="mt-5 text-base text-gray-500">
-                  <Link href="https://www.facebook.com/janedoe" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:text-indigo-500">
-                    Menno Coppens d'Eeckenbrugge
+                  <Link href="https://www.facebook.com/Mennocoppensd/" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:text-indigo-500">
+                    Menno Coppens d&apos;Eeckenbrugge
                   </Link>
                 </p>
               </div>
