@@ -3,8 +3,8 @@ import { Metadata } from 'next'
 import { FaInstagram, FaFacebook, FaEnvelope } from 'react-icons/fa';
 
 export const metadata: Metadata = {
-  title: 'Contact | Artist Gallery',
-  description: 'Get in touch with Jane Doe or follow her on social media.',
+  title: 'Contact | Menno',
+  description: 'Get in touch ',
 }
 
 export default function ContactPage() {
@@ -12,7 +12,7 @@ export default function ContactPage() {
     <div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
       <div className="text-center">
         <h1 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-            Get in touch about your favourite work of art, or make an appointment.
+            Get in touch with me.
         </h1>
         <p className="mt-4 text-lg text-gray-500">
           I&apos;d love to hear from you! Feel free to reach out or follow me on social media.

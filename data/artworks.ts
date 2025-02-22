@@ -65,30 +65,6 @@ export interface Artwork {
       dimensions: '30 x 40 inches',
       medium: 'Acrylic on Canvas',
     },
-    {
-      id: '8',
-      title: 'Untitled, 2024',
-      image: '/images/artwork8.jpg',
-      description: 'An early morning view of a Untitled, 2024 surrounded by mountains.',
-      dimensions: '30 x 40 inches',
-      medium: 'Acrylic on Canvas',
-    },
-    {
-      id: '9',
-      title: 'Untitled, 2024',
-      image: '/images/artwork9.jpg',
-      description: 'An early morning view of a Untitled, 2024 surrounded by mountains.',
-      dimensions: '30 x 40 inches',
-      medium: 'Acrylic on Canvas',
-    },
-    {
-      id: '10',
-      title: 'Untitled, 2024',
-      image: '/images/artwork10.jpg',
-      description: 'An early morning view of a Untitled, 2024 surrounded by mountains.',
-      dimensions: '30 x 40 inches',
-      medium: 'Acrylic on Canvas',
-    },
     // Add more artworks as needed
   ];
   
