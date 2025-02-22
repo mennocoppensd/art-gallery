@@ -12,10 +12,10 @@ export const metadata = {
   creator: 'Menno Coppens d\'Eeckenbrugge',
   publisher: 'Menno Coppens d\'Eeckenbrugge',
   openGraph: {
-    title: 'Artist Gallery | Menno Coppens d\'Eeckenbrugge',
-    description: 'A gallery of artworks by Menno Coppens d\'Eeckenbrugge.',
+    title: 'Artist | Menno Coppens d\'Eeckenbrugge',
+    description: 'A portfolio of artworks by Menno Coppens d\'Eeckenbrugge.',
     url: 'https://www.mennocd.com',
-    siteName: 'Artist Gallery',
+    siteName: 'Artist',
     images: [
       {
         url: 'https://www.yourdomain.com/og-image.jpg',

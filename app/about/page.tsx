@@ -27,7 +27,7 @@ export default function About() {
 
             Toen ik daarna mijn studiekeuze moest maken, had ik geen idee wat ik wilde doen. Mijn vader gaf mij de raad om een studie te kiezen waar veel jobzekerheid te vinden is, en waar ik goed mijn boterham mee kan verdienen.
 
-            Uiteindelijk heb ik gekozen voor New Media Development, aan de Arteveldehogeschool in Mariakerke, Gent. Een 'creatieve' IT richting waar ik heb geleerd om websites en apps te bouwen.
+            Uiteindelijk heb ik gekozen voor New Media Development, aan de Arteveldehogeschool in Mariakerke, Gent. Een creatieve IT richting waar ik heb geleerd om websites en apps te bouwen.
 
             Het was een helse periode, omdat het eigenlijk niet iets was waar ik volledig door gebeten was.
 
