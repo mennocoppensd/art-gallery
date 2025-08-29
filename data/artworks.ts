@@ -68,7 +68,7 @@ export interface Artwork {
     {
       id: '8',
       title: 'Untitled, June 2025',
-      image: '/images/artwork8.jpg',
+      image: '/images/artwork8.JPG',
       description: '/',
       dimensions: '60 x 80 cm',
       medium: 'Oil on Canvas',
@@ -83,21 +83,21 @@ export interface Artwork {
     }, {
       id: '10',
       title: 'Untitled, April 2025',
-      image: '/images/artwork10.jpg',
+      image: '/images/artwork10.JPG',
       description: 'Serie 1/3',
       dimensions: '210 x 297 mm',
       medium: 'Acryl and Charcoal on A4 paper',
     }, {
       id: '11',
       title: 'Untitled, April 2025',
-      image: '/images/artwork11.jpg',
+      image: '/images/artwork11.JPG',
       description: 'Serie 2/3',
       dimensions: '210 x 297 mm',
       medium: 'Acryl and Charcoal on A4 paper',
     }, {
       id: '12',
       title: 'Untitled, April 2025',
-      image: '/images/artwork12.jpg',
+      image: '/images/artwork12.JPG',
       description: 'Serie 3/3',
       dimensions: '210 x 297 mm',
       medium: 'Acryl and Charcoal on A4 paper',
