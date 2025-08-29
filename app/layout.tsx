@@ -5,9 +5,9 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "Artist Gallery | Menno Coppens d'Eeckenbrugge",
-  description: 'A gallery of artworks by Menno Coppens d\'Eeckenbrugge.',
-  keywords: ['artist', 'gallery', 'contemporary art', 'paintings', 'Menno Coppens d\'Eeckenbrugge'],
+  title: "Artist Portfolio | Menno Coppens d'Eeckenbrugge",
+  description: 'A portfolio of artworks by Menno Coppens d\'Eeckenbrugge.',
+  keywords: ['artist', 'portfolio', 'contemporary art', 'paintings', 'Menno Coppens d\'Eeckenbrugge'],
   authors: [{ name: 'Menno Coppens d\'Eeckenbrugge' }],
   creator: 'Menno Coppens d\'Eeckenbrugge',
   publisher: 'Menno Coppens d\'Eeckenbrugge',
@@ -28,8 +28,8 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Artist Gallery | Menno Coppens d\'Eeckenbrugge',
-    description: 'A gallery of artworks by Menno Coppens d\'Eeckenbrugge.',
+    title: 'Artist Portfolio | Menno Coppens d\'Eeckenbrugge',
+    description: 'A portfolio of artworks by Menno Coppens d\'Eeckenbrugge.',
     creator: '@mennocoppensdeeckenbrugge',
     images: ['https://www.mennocd.com/twitter-image.jpg'],
   },
@@ -74,7 +74,7 @@ export default function RootLayout({
           <div className="container mx-auto px-6 py-3 flex justify-between items-center">
             <Link href="/" className="font-bold text-xl text-gray-800">Menno Coppens d&apos;Eeckenbrugge</Link>
             <div className="flex space-x-4">
-              <Link href="/about" className="text-gray-800 hover:text-gray-600">About Menno</Link>
+              <Link href="/about" className="text-gray-800 hover:text-gray-600">About</Link>
               <Link href="/contact" className="text-gray-800 hover:text-gray-600">Contact</Link>
             </div>
           </div>
