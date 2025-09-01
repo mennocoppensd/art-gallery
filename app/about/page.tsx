@@ -36,7 +36,7 @@ export default function About() {
             </p>
             <br />
             <p className="text-lg text-gray-700 leading-relaxed">
-              After completing a bachelor&apos;s degree in New Media Development in August 2024 and establishing myself in a full-time IT job in Brussels, I decided to focus on my artistic career and dedicate myself to painting. That choice felt more then a necessity than a choice, in order to realign with myself again.
+              After completing a bachelor&apos;s degree in New Media Development in August 2024, I started a full-time IT job in Brussels. Alongside my IT job, I decided to focus on my artistic career and dedicate myself to painting. That choice felt more then a necessity than a choice, in order to realign with myself again.
             </p>
             <br />
             <p className="text-lg text-gray-700 leading-relaxed">
