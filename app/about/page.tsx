@@ -19,7 +19,7 @@ export default function About() {
         <div className="lg:w-1/3">
           <div className="relative w-full lg:w-full h-96 lg:h-auto lg:aspect-square rounded-2xl overflow-hidden shadow-2xl mx-auto lg:mx-0">
             <Image
-              src="/images/About2.jpg?height=400&width=400"
+              src="/images/About2.JPG?height=400&width=400"
               alt="Menno Coppens d'Eeckenbrugge"
               width={400}
               height={400}
