@@ -1,8 +1,19 @@
-import Link from 'next/link'
 import './styles/globals.css'
-import { Inter } from 'next/font/google'
+import { Inter, Poppins } from 'next/font/google'
+import Navigation from '../components/Navigation'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ 
+  subsets: ['latin'],
+  variable: '--font-inter',
+  display: 'swap'
+})
+
+const poppins = Poppins({ 
+  subsets: ['latin'],
+  weight: ['300', '400', '500', '600', '700'],
+  variable: '--font-poppins',
+  display: 'swap'
+})
 
 export const metadata = {
   title: "Artist Portfolio | Menno Coppens d'Eeckenbrugge",
@@ -64,27 +75,19 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className={`${inter.variable} ${poppins.variable}`}>
             <head>
         {/* Link naar de favicon */}
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </head>
-      <body className={inter.className}>
-        <nav className="bg-white shadow-md">
-          <div className="container mx-auto px-6 py-3 flex justify-between items-center">
-            <Link href="/" className="font-bold text-xl text-gray-800">Menno Coppens d&apos;Eeckenbrugge</Link>
-            <div className="flex space-x-4">
-              <Link href="/about" className="text-gray-800 hover:text-gray-600">About</Link>
-              <Link href="/contact" className="text-gray-800 hover:text-gray-600">Contact</Link>
-            </div>
-          </div>
-        </nav>
+      <body className="font-inter">
+        <Navigation />
         <main className="container mx-auto px-6 py-8">
           {children}
         </main>
         <footer className="bg-gray-100 mt-8">
           <div className="container mx-auto px-6 py-3 text-center text-gray-600">
-            © 2025 Menno Coppens d&apos;Eeckenbrugge. All rights reserved.
+            <p>© 2025 <span className="font-poppins font-semibold">Menno Coppens d&apos;Eeckenbrugge</span>. All rights reserved.</p>
           </div>
         </footer>
       </body>
