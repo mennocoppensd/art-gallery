@@ -20,7 +20,7 @@ export interface Artwork {
     {
       id: '19',
       title: 'Untitled, January 2026',
-      image: '/images/artwork19.JPG',
+      image: '/images/artwork19.jpg',
       description: '/',
       dimensions: '60 x 80 cm',
       medium: 'Oil on Canvas',
@@ -44,7 +44,7 @@ export interface Artwork {
     {
       id: '17',
       title: 'Untitled, October 2025',
-      image: '/images/artwork17.JPG',
+      image: '/images/artwork17.jpg',
       description: '/',
       dimensions: '60 x 80 cm',
       medium: 'Oil on Canvas',

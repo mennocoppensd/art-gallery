@@ -39,6 +39,9 @@ export default function About() {
               After completing a bachelor&apos;s degree in New Media Development in August 2024, I decided to focus on my artistic career and dedicate myself to painting. I combine it with a full-time IT job in Brussels.
             </p>
             <br />
+            <br />
+            <br />
+            <br />
           </div>
         </div>
       </div>
