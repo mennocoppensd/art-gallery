@@ -57,10 +57,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="font-poppins text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">
-              Featured Artworks
+              Featured Selection
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              A curated selection of my  works
+              Click on an artwork to see more details.
             </p>
           </div>
           
