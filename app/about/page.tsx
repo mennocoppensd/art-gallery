@@ -32,16 +32,13 @@ export default function About() {
         <div className="lg:w-2/3 space-y-6">
           <div className="prose prose-lg max-w-none">
             <p className="text-lg text-gray-700 leading-relaxed">
-              I am a 23 year old self-taught artist born and raised in Flanders, Belgium. My artistic interests started early on as a child. I remember drawing a lot because I had a lot of imagination that needed to be expressed.
+              I am a 23 year old self-taught artist from Asse, Belgium. My artistic interests started early on as a child. I remember drawing a lot because I had a lot of imagination that needed to be expressed.
             </p>
             <br />
             <p className="text-lg text-gray-700 leading-relaxed">
-              After completing a bachelor&apos;s degree in New Media Development in August 2024, I started a full-time IT job in Brussels. Alongside my IT job, I decided to focus on my artistic career and dedicate myself to painting. That choice felt more then a necessity than a choice, in order to realign with myself again.
+              After completing a bachelor&apos;s degree in New Media Development in August 2024, I decided to focus on my artistic career and dedicate myself to painting. I combine it with a full-time IT job in Brussels.
             </p>
             <br />
-            <p className="text-lg text-gray-700 leading-relaxed">
-              Through weekly painting sessions, by exploring and experimenting, I am becoming more and more passionate about painting. Fueling myself by reading, talking, watching images and looking at everything that catches my eyes in real life, my oeuvre is getting its identity, while my own identity is still evolving as well.
-            </p>
           </div>
         </div>
       </div>

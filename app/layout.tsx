@@ -87,7 +87,7 @@ export default function RootLayout({
         </main>
         <footer className="bg-gray-100 mt-8">
           <div className="container mx-auto px-6 py-3 text-center text-gray-600">
-            <p>© 2025 <span className="font-poppins font-semibold">Menno Coppens d&apos;Eeckenbrugge</span>. All rights reserved.</p>
+            <p>© 2026 <span className="font-poppins font-semibold">Menno Coppens d&apos;Eeckenbrugge</span>. All rights reserved.</p>
           </div>
         </footer>
       </body>

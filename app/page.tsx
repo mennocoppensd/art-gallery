@@ -17,7 +17,7 @@ export default function Home() {
         <div className="relative z-10 text-center px-6 max-w-6xl mx-auto">
           <div className="mb-8">
             <h1 className="font-poppins text-6xl md:text-8xl font-bold text-gray-900 mb-6 tracking-tight leading-tight">
-              Art Portfolio
+              Portfolio
             </h1>
             <div className="w-32 h-1 bg-black mx-auto mb-8"></div>
             <h2 className="font-poppins text-3xl md:text-4xl font-light text-gray-700 mb-8 tracking-wide">
