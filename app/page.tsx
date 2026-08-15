@@ -60,7 +60,7 @@ export default function Home() {
               Featured Selection
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              Click on an artwork to see more details.
+              Click on one of the 15 artworks to see more details.
             </p>
           </div>
           
