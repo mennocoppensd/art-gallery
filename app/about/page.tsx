@@ -45,7 +45,7 @@ export default function About() {
             <br />
             <p className="text-lg text-gray-700 leading-relaxed">
              My paintings are gestureful yet decisive at the same time. 
-             I always try to create a sense of depth and movement. That is my only goal. Other than that, I don't have any rules, I value my freedom highly. But even in my impulsive brush strokes, I feel a certain drawing sensitivity in terms of composition and form. That critical-thinking part in the impulsiveness happens fast. I react on form, color, rhythm and coincidence. It&apos;s only in the process that I find out what the painting is about. 
+             I always try to create a sense of depth and movement. That is my only goal. Other than that, I don&apos;t have any rules, I value my freedom highly. But even in my impulsive brush strokes, I feel a certain drawing sensitivity in terms of composition and form. That critical-thinking part in the impulsiveness happens fast. I react on form, color, rhythm and coincidence. It&apos;s only in the process that I find out what the painting is about. 
             </p>
             <br />
             <br />
