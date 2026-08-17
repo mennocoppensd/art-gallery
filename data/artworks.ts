@@ -13,7 +13,7 @@ export interface Artwork {
     {
       id: '26',
       title: 'Untitled, July 2026',
-      image: '/images/artwork26.JPG',
+      image: '/images/artwork26.jpg',
       description: '/',
       dimensions: '29,7 x 42 cm',
       medium: 'Acryl on Paper, pressed down on wood',
@@ -71,7 +71,7 @@ export interface Artwork {
     {
       id: '19',
       title: 'Untitled, January 2026',
-      image: '/images/artwork19.JPG',
+      image: '/images/artwork19.jpg',
       description: '/',
       dimensions: '60 x 80 cm',
       medium: 'Oil on Canvas',
@@ -79,7 +79,7 @@ export interface Artwork {
     {
       id: '25',
       title: 'Untitled, August 2026',
-      image: '/images/artwork25.JPG',
+      image: '/images/artwork25.jpg',
       description: '/',
       dimensions: '/',
       medium: 'Acryl on paper',
